@@ -1,7 +1,5 @@
 let values = [];
 let result = 0;
-let operators = ['*', '/', '+', '-'];
-let numbers = [0,1,2,3,4,5,6,7,8,9];
 
 let display = document.getElementById('display');
 let btns = document.querySelectorAll('.btn');
